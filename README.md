@@ -1,8 +1,8 @@
 # Your Week in One Line — entry
 
-![Competition](https://make.fun/badge/u-boge-your-week-in-one-line-d1c14ced.svg)
-![Rank](https://make.fun/badge/u-boge-your-week-in-one-line-d1c14ced/kizuna99/u-boge-your-week-in-one-line-d1c14ced-entry/rank.svg)
-![Reward](https://make.fun/badge/u-boge-your-week-in-one-line-d1c14ced/kizuna99/u-boge-your-week-in-one-line-d1c14ced-entry/reward.svg)
+[![make.fun · u-boge-your-week-in-one-line-d1c14ced](https://make.fun/badge/u-boge-your-week-in-one-line-d1c14ced.svg)](https://make.fun/bounty/u-boge-your-week-in-one-line-d1c14ced?utm_source=github&utm_medium=readme&utm_campaign=u-boge-your-week-in-one-line-d1c14ced)
+[![rank](https://make.fun/badge/u-boge-your-week-in-one-line-d1c14ced/kizuna99/u-boge-your-week-in-one-line-d1c14ced-entry/rank.svg)](https://make.fun/bounty/u-boge-your-week-in-one-line-d1c14ced/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-boge-your-week-in-one-line-d1c14ced)
+[![reward](https://make.fun/badge/u-boge-your-week-in-one-line-d1c14ced/kizuna99/u-boge-your-week-in-one-line-d1c14ced-entry/reward.svg)](https://make.fun/bounty/u-boge-your-week-in-one-line-d1c14ced?utm_source=github&utm_medium=readme&utm_campaign=u-boge-your-week-in-one-line-d1c14ced)
 
 A make.fun entry for [Your Week in One Line](https://make.fun/bounty/u-boge-your-week-in-one-line-d1c14ced).
 
